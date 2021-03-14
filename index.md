@@ -28,6 +28,7 @@ Github Link: https://github.com/MatthewLee4/SimpleMath
 
 ---
 [Certified](https://capstone-certified.herokuapp.com/)
+
 Purpose: Full-stack project where the user can acquire "certification" for simple every-day skills.
 Role: In a group of 5 members, I contributed to mostly the front-end of the website.
 Live Link: https://capstone-certified.herokuapp.com/
