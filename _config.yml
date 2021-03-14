@@ -1,15 +1,15 @@
 title: Matthew Lee # your name (or website title) here
 logo: "/images/profile picture.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am currently:<br>
+  <b>I am currently:<b><br>
     - Living in Houston, TX.<br>
     - On my 3rd year of teaching (high school at Stratford HS).<br>
     - A full-stack developer (DititalCrafts 2021)<br>
 
-  Contact me!<br>
+  <b>Contact</b><br>
   Email: lee.matthew.24.14@gmail.com<br>
-  Cell: 713-907-8460<br>
-  <a href="https://www.linkedin.com/in/matthew-lee-174b491b6/">View My LinkedIn Profile</a><br>
+  Cell: 713-907-8460<br><br>
+  <a href="https://www.linkedin.com/in/matthew-lee-174b491b6/">View My LinkedIn Profile</a><br><br>
   <a href="https://www.canva.com/design/DAEQoaFQsGs/AZiFXQHPH6kE8Rei2S4b0g/view?utm_content=DAEQoaFQsGs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">View My Resume</a><br>
 
 theme: jekyll-theme-minimal
