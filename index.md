@@ -7,17 +7,32 @@
 --
 ### Projects
 
-[GetInked](https://github.com/Joe-dev13/Get-Inked)
+[GetInked](https://get-inked.netlify.app/)
+
+Purpose: Front-end project where a user could search for a tattoo shop in their local area. The purpose was to make the search more convenient by providing extra information, such as ideas/examples
+Role: I contributed on most of the CSS and design of the website. 
+Live Link: https://get-inked.netlify.app/
+Github Link: https://github.com/Joe-dev13/Get-Inked
 
 
 
 ---
-[SimpleMath](https://github.com/MatthewLee4/SimpleMath)
+[SimpleMath](https://simple-math-heroku.herokuapp.com/login)
+
+Purpose: Back-end project where the user can practice simple math exercises to develop and hone their math skills. The idea came from having taught high schoolers who were struggling with simple arithmetic.
+Role: I contributed on 100% of the project
+Live Link: https://simple-math-heroku.herokuapp.com/login
+Github Link: https://github.com/MatthewLee4/SimpleMath
 
 
 
 ---
-[Certified](https://github.com/MatthewLee4/certified)
+[Certified](https://capstone-certified.herokuapp.com/)
+Purpose: Full-stack project where the user can acquire "certification" for simple every-day skills.
+Role: In a group of 5 members, I contributed to mostly the front-end of the website.
+Live Link: https://capstone-certified.herokuapp.com/
+Github Link: https://github.com/MatthewLee4/certified
+
 
 <!-- 
 - [Project 1 Title](http://example.com/)
